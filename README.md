@@ -10,5 +10,5 @@ This contains necessary files to automate network configuration on the fly.
   * the [vpnaas script](src/bash/vpnaas.sh) can be used to start, stop and get the status of a VPN using OpenStack VPNaaS
 
 3. Using OpenNaaS
-  * to be done
+  * The two scripts server_opennaas.sh and client_opennaas.sh are used to launch the server and the client. 
 
